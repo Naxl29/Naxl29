@@ -1,4 +1,4 @@
-<!-- ## 👋 Hey there! I'm Jose Navaja -->
+<!-- ## 👋 Hey there! I'm Nicolás Arrieta -->
 
 <h1 align="center">Hey there 👋, I'm Nicolás Arrieta</h1>
 
